@@ -20,7 +20,7 @@ ON v.ProductoID = p.ProductoID
   
 WHERE v.EstadoVenta = 'Completada'
 )
-  
+--QUERY PRINCIPAL
 SELECT
     ClienteID,
     VentaID,
