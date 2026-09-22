@@ -1,3 +1,5 @@
+/* Aqui hacemos un Join entre las tablas Ventas y Productos para detectar en que ventas los precios registrados de los productos
+no concuerdan con los precios oficiales*/
 SELECT
 v.VentaID,
 p.Precio,
