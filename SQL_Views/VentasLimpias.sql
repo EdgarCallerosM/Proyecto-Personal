@@ -1,3 +1,4 @@
+--En este query, nos deshacemos de las ventas repetidas y reemplazamos los precios en la tabla Ventas con los precios oficiales de la tabla Productos.
 CREATE VIEW VentasLimpias AS
 SELECT DISTINCT
 v.VentaID,
