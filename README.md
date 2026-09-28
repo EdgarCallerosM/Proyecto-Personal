@@ -1,6 +1,4 @@
-**LOS DATOS EN ESTE PROYECTO NO SON REALES. Fueron generados con un prompt en ChatGPT.**
-
-Este es un proyecto personal que realicé para familiarizarme con las herramientas de SQL Server y Power BI.
+**LOS DATOS USADOS EN ESTE PROYECTO NO SON REALES. Fueron generados con un prompt en ChatGPT.**
 
 Mi tarea fue inspeccionar y limpiar los datos en SQL y después importarlos a Power BI para analizarlos.
 
